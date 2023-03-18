@@ -1,0 +1,5 @@
+// www 12 // commment mark "//" means that line will be ignored, name, amount of series
+ddd 14 // name, amount of series
+ooo 24
+// ggg 10
+yyy 9
